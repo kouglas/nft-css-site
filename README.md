@@ -6,8 +6,8 @@ You can check out a live version [here](https://helpful-queijadas-318866.netlify
 
 or
 
-you can view some screenshots below 👇🏼
+you can view a screenshot below 👇🏼
 
 
-<img width="1440" alt="Screen Shot 2022-09-22 at 3 06 18 PM" src="https://user-images.githubusercontent.com/25935404/191841050-841ba8eb-b77c-4a97-9c75-74e1866c44e4.png">
-<img width="1440" alt="Screen Shot 2022-09-22 at 3 08 35 PM" src="https://user-images.githubusercontent.com/25935404/191841260-2a5864b2-83b5-419e-9f78-b692294f36ce.png">
+
+<img width="394" alt="Screen Shot 2022-09-22 at 3 13 25 PM" src="https://user-images.githubusercontent.com/25935404/191842287-a92bb5e5-02b8-40fb-8262-0cbb7db9c0d7.png">
